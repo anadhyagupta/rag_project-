@@ -1,0 +1,5 @@
+RAG stands for Retrieval Augmented Generation.
+It helps AI answer questions using external data.
+It is used in chatbots and search systems.
+Python is a programming language.
+It is used in web development and AI.
